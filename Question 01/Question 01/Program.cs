@@ -12,6 +12,7 @@ namespace Question_01
     {
         static void Main(string[] args)
         {
+            /*I had a look at this link from google to learn how to break out of loop and so my reference is : https://www.tutorialsteacher.com/csharp/csharp-while-loop and I also look at moodle to complete my questions.*/
             /* Loop for Getting userName until correct is received.*/
             int i = 1;
             while (i > 0)
